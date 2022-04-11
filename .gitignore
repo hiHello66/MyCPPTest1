@@ -88,6 +88,9 @@
 !.git*
 !.editorconfig
 
+# uasset File
+!*.uasset
+
 # Projects and makefiles
 !*.cmake
 !*.mk
